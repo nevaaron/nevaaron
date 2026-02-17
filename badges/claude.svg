@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="22" viewBox="0 0 72 22">
-  <rect rx="4" width="72" height="22" fill="#F5F0E8"/>
-  <!-- Claude sunburst/sparkle -->
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="22" viewBox="0 0 66 22">
+  <rect rx="4" width="66" height="22" fill="#F5F0E8"/>
   <g transform="translate(11,11)">
-    <!-- 8 rays from center -->
     <line x1="0" y1="-6" x2="0" y2="-2" stroke="#D97757" stroke-width="1.5" stroke-linecap="round"/>
     <line x1="4.2" y1="-4.2" x2="1.4" y2="-1.4" stroke="#D97757" stroke-width="1.5" stroke-linecap="round"/>
     <line x1="6" y1="0" x2="2" y2="0" stroke="#D97757" stroke-width="1.5" stroke-linecap="round"/>
@@ -12,5 +10,5 @@
     <line x1="-6" y1="0" x2="-2" y2="0" stroke="#D97757" stroke-width="1.5" stroke-linecap="round"/>
     <line x1="-4.2" y1="-4.2" x2="-1.4" y2="-1.4" stroke="#D97757" stroke-width="1.5" stroke-linecap="round"/>
   </g>
-  <text x="22" y="15.5" fill="#1a1a1a" font-family="Georgia,serif" font-size="12" font-weight="400">Claude</text>
+  <text x="20" y="15.5" fill="#1a1a1a" font-family="Georgia,serif" font-size="12">Claude</text>
 </svg>
