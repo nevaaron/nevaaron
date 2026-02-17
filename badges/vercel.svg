@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="22" viewBox="0 0 68 22">
+  <rect rx="4" width="68" height="22" fill="#000"/>
+  <g transform="translate(5,4) scale(0.58)">
+    <path d="m12 1.608 12 20.784H0Z" fill="white"/>
+  </g>
+  <text x="22" y="15.5" fill="white" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="500">Vercel</text>
+</svg>
