@@ -3,10 +3,8 @@
 ![Sony FX3](badges/sony-fx3.svg) ![Røde](badges/rode.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Pr](badges/premiere-pro.svg) ![Ps](badges/photoshop.svg) ![Ch](badges/character-animator.svg) ![Figma](badges/figma.svg) ![Macintosh](badges/macintosh.svg) ![iPhone](badges/iphone.svg) ![Claude](badges/claude.svg) ![OpenClaw](badges/openclaw.svg) ![Obsidian](badges/obsidian-v2.svg) ![Vercel](badges/vercel.svg) ![Bitcoin](badges/bitcoin.svg) ![Ethereum](badges/ethereum.svg) ![Xbox](badges/xbox360.svg) ![N64](badges/n64-v2.svg)
 
 I've been called a lot of things... creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, documentarian, "that guy who makes the silly cartoons" and people on the internet call me **Nev**
-
-<br>The constant threads: storytelling and building at the frontier. 
-
-<br>Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
+The constant threads: storytelling and building at the frontier. 
+Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
 <br>100M+ views › 2M+ subscribers › 4M hours watched
 
 ## Currently
