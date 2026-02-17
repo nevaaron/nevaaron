@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56" height="22" viewBox="0 0 56 22">
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="22" viewBox="0 0 62 22">
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FFC300"/><stop offset="100%" stop-color="#CC9900"/></linearGradient></defs>
-  <rect rx="4" width="56" height="22" fill="url(#g)"/>
-  <text x="10" y="15.5" fill="#1a1a1a" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">Røde</text>
+  <rect rx="4" width="62" height="22" fill="url(#g)"/>
+  <text x="12" y="15.5" fill="#1a1a1a" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700">RØDE</text>
 </svg>
