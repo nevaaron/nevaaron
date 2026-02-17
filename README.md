@@ -21,18 +21,18 @@ Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](htt
 ## Before That
 
 › [Struthless Studios](https://struthlessstudios.com) - Content studio. Adult Swim, original IP, brand partnerships  
-› Memelab - Design your own gif meme, mint it as an NFT  
+› [Memelab](https://x.com/memelab_69) - Design your own gif meme, mint it as an NFT  
 › [Struthiverse](https://tiktok.com/@struthiverse) - Animated TikTok series  
-› How a Space Can Change Your Life - How your environment shapes your headspace  
-› The Curse of the Country Song - Documentary about finding meaning in failure  
-› Crossover Show - Animated series about crypto  
-› Hump Wallace - Bootstrapped animated pilot about a magic camel  
+› [How a Space Can Change Your Life](https://www.youtube.com/watch?v=ikz3ECL5NEk) - How your environment shapes your headspace  
+› [The Curse of the Country Song](https://www.youtube.com/watch?v=BAO6MD7Qc44) - Documentary about finding meaning in failure  
+› [Crossover Show](https://x.com/crossover_xo/status/1782917425425424824) - Animated series about crypto  
+› [Hump Wallace](https://struthlessstudios.com/projects/hump-wallace/) - Bootstrapped animated pilot about a magic camel  
 › [Birdz of Australia](https://www.imdb.com/title/tt20871926/) - Animated short series with Brown Cardigan  
 › [Glue Factory](https://www.imdb.com/title/tt21069044/) - NFT animated series. Ted Danson, Patton Oswalt, Bobby Lee  
 › [Luka and Bobi](https://www.imdb.com/title/tt20880386/) - Animated short series for Dallas Mavericks  
 › [Big Lez Show](https://youtube.com/@TheBigLezShow) - Adult Swim funded pilot (for one of my fav shows ever)  
 › [Depravityland](https://open.spotify.com/show/6yUlzq9vDrQbk0ffUCOcgi) - A podcast about the worst things on the internet  
-› The Kid Laroi - Animated short about his breakout  
+› [The Kid Laroi](https://www.instagram.com/p/CLElMWWhr-e/) - Animated short about his breakout  
 › [Step One](https://stepone.life) - E-comm underwear brand, now ASX-listed
 
 ## Collaborated With
