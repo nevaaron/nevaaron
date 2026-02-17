@@ -52,6 +52,15 @@ The Kid Laroi, Slowthai, Dallas Mavericks, Universal Music, Sony Music, Ruby Fie
 › Western Region Chess Champion  
 › 10 [IMDB](https://www.imdb.com/name/nm13410845/) credits
 
+<details>
+<summary>What people say</summary>
+
+![comments-1](comments-1.jpg)
+![comments-2](comments-2.jpg)
+![comments-3](comments-3.jpg)
+
+</details>
+
 ## Connect
 
 › [X](https://x.com/aaronnev_)  
