@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="66" height="22" viewBox="0 0 66 22">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#444"/><stop offset="100%" stop-color="#111"/></linearGradient></defs>
-  <rect rx="4" width="66" height="22" fill="url(#g)"/>
-  <text x="10" y="15.5" fill="#ccc" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11">iPhone</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="22" viewBox="0 0 76 22">
+  <rect rx="4" width="76" height="22" fill="white" stroke="#ddd" stroke-width="0.5"/>
+  <!-- Apple logo path -->
+  <g transform="translate(6,3) scale(0.035)">
+    <path d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184 4 270.2c0 26.2 4.8 53.3 14.4 81.2 12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-62.1 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 53 -14.1 69.5-34.3z" fill="#333"/>
+  </g>
+  <text x="24" y="15.5" fill="#333" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12">iPhone</text>
 </svg>
