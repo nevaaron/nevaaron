@@ -1,5 +1,9 @@
 # Nev
 
+📍 Australia ↔ London
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Toon Boom](https://img.shields.io/badge/Toon_Boom-4B0082?style=flat) ![Sony FX3](https://img.shields.io/badge/Sony_FX3-000?style=flat&logo=sony&logoColor=white) ![Kodak](https://img.shields.io/badge/Kodak-FFD700?style=flat&logo=kodak&logoColor=black) ![Polaroid](https://img.shields.io/badge/Polaroid-E4002B?style=flat) ![Rode](https://img.shields.io/badge/Røde-FFC300?style=flat) ![Mac](https://img.shields.io/badge/Mac-A2AAAD?style=flat&logo=apple&logoColor=white) ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white) ![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=flat&logo=nintendo&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-00CED1?style=flat)
+
 I've been called a lot of things... 
 creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, documentarian, "that guy who makes the silly cartoons"
 
@@ -63,4 +67,4 @@ The Kid Laroi, Slowthai, Dallas Mavericks, Universal Music, Sony Music, Ruby Fie
 
 ## Connect
 
-[![X](https://img.shields.io/badge/@aaronnev__-000?style=flat&logo=x&logoColor=white)](https://x.com/aaronnev_) [![YouTube](https://img.shields.io/badge/@nevaaron-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@nevaaron) [![Instagram](https://img.shields.io/badge/@aaronmclachlan-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aaronmclachlan) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/1235941760) [![Email](https://img.shields.io/badge/nev@am4.media-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nev@am4.media) [![Web](https://img.shields.io/badge/nevs.space-000?style=flat&logo=safari&logoColor=white)](https://nevs.space)
+[![X](https://img.shields.io/badge/@aaronnev__-000?style=flat&logo=x&logoColor=white)](https://x.com/aaronnev_) [![YouTube](https://img.shields.io/badge/@nevaaron-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@nevaaron) [![TikTok](https://img.shields.io/badge/@aaronnev__-00F2EA?style=flat&logo=tiktok&logoColor=black)](https://tiktok.com/@aaronnev_) [![Instagram](https://img.shields.io/badge/@aaronmclachlan-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aaronmclachlan) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/1235941760) [![Web](https://img.shields.io/badge/nevs.space-7C3AED?style=flat&logo=safari&logoColor=white)](https://nevs.space)
