@@ -21,12 +21,18 @@ Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](htt
 ## Before That
 
 › [Struthless Studios](https://struthlessstudios.com) - Content studio. Adult Swim, original IP, brand partnerships  
+› Memelab - Design your own gif meme, mint it as an NFT  
 › [Struthiverse](https://tiktok.com/@struthiverse) - Animated TikTok series  
-› [Glue Factory](https://www.imdb.com/title/tt21069044/) - NFT animated series. Ted Danson, Patton Oswalt, Bobby Lee  
+› How a Space Can Change Your Life - How your environment shapes your headspace  
+› The Curse of the Country Song - Documentary about finding meaning in failure  
+› Crossover Show - Animated series about crypto  
+› Hump Wallace - Bootstrapped animated pilot about a magic camel  
 › [Birdz of Australia](https://www.imdb.com/title/tt20871926/) - Animated short series with Brown Cardigan  
+› [Glue Factory](https://www.imdb.com/title/tt21069044/) - NFT animated series. Ted Danson, Patton Oswalt, Bobby Lee  
 › [Luka and Bobi](https://www.imdb.com/title/tt20880386/) - Animated short series for Dallas Mavericks  
 › [Big Lez Show](https://youtube.com/@TheBigLezShow) - Adult Swim funded pilot (for one of my fav shows ever)  
 › [Depravityland](https://open.spotify.com/show/6yUlzq9vDrQbk0ffUCOcgi) - A podcast about the worst things on the internet  
+› The Kid Laroi - Animated short about his breakout  
 › [Step One](https://stepone.life) - E-comm underwear brand, now ASX-listed
 
 ## Collaborated With
