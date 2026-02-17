@@ -2,7 +2,7 @@
 
 📍 Australia ↔ London
 
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Toon Boom](https://img.shields.io/badge/Toon_Boom-4B0082?style=flat&logo=toonboomharmony&logoColor=white) ![Sony FX3](https://img.shields.io/badge/Sony_FX3-000?style=flat&logo=sony&logoColor=white) ![Kodak](https://img.shields.io/badge/Kodak-FFD700?style=flat&logo=kodak&logoColor=black) ![Polaroid](https://img.shields.io/badge/Polaroid-E4002B?style=flat&logo=polaroid&logoColor=white) ![Røde](https://img.shields.io/badge/Røde-FFC300?style=flat&logo=rode&logoColor=black) ![Mac](https://img.shields.io/badge/Mac-A2AAAD?style=flat&logo=apple&logoColor=white) ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white) ![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=flat&logo=nintendo&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-00CED1?style=flat)
+![Premiere Pro](badges/premiere-pro.svg) ![Photoshop](badges/photoshop.svg) ![Toon Boom](badges/toon-boom.svg) ![Sony FX3](badges/sony-fx3.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Røde](badges/rode.svg) ![Mac](badges/mac.svg) ![Xbox](badges/xbox.svg) ![Nintendo](badges/nintendo.svg) ![Obsidian](badges/obsidian.svg)
 
 I've been called a lot of things... 
 creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, documentarian, "that guy who makes the silly cartoons"
