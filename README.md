@@ -6,6 +6,7 @@ creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, docum
 The constants? storytelling and building at the frontier.
 
 Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
+
 100M+ views › 2M+ subscribers › 4M hours watched
 
 ## Currently
