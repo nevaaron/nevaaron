@@ -63,6 +63,4 @@ The Kid Laroi, Slowthai, Dallas Mavericks, Universal Music, Sony Music, Ruby Fie
 
 ## Connect
 
-› [X](https://x.com/aaronnev_)  
-› [YouTube](https://youtube.com/@aaron_nev)  
-› [Email](mailto:nev@am4.media)
+[![X](https://img.shields.io/badge/@aaronnev__-000?style=flat&logo=x&logoColor=white)](https://x.com/aaronnev_) [![YouTube](https://img.shields.io/badge/@aaron__nev-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@aaron_nev) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/1235941760) [![Email](https://img.shields.io/badge/nev@am4.media-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nev@am4.media) [![Web](https://img.shields.io/badge/nevs.space-000?style=flat&logo=safari&logoColor=white)](https://nevs.space)
