@@ -1,6 +1,6 @@
 # Nev
 
-![Pr](badges/premiere-pro.svg) ![Ps](badges/photoshop.svg) ![Ch](badges/character-animator.svg) ![Figma](badges/figma.svg) ![Sony FX3](badges/sony-fx3.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Røde](badges/rode.svg) ![Macintosh](badges/macintosh.svg) ![iPhone](badges/iphone.svg) ![Claude](badges/claude.svg) ![Vercel](badges/vercel.svg) ![Xbox 360](badges/xbox360.svg) ![N64](badges/n64-v2.svg) ![OpenClaw](badges/openclaw.svg) ![Obsidian](badges/obsidian-v2.svg)
+![Pr](badges/premiere-pro.svg) ![Ps](badges/photoshop.svg) ![Ch](badges/character-animator.svg) ![Figma](badges/figma.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Sony FX3](badges/sony-fx3.svg) ![Røde](badges/rode.svg) ![Macintosh](badges/macintosh.svg) ![iPhone](badges/iphone.svg) ![Claude](badges/claude.svg) ![OpenClaw](badges/openclaw.svg) ![Obsidian](badges/obsidian-v2.svg) ![Vercel](badges/vercel.svg) ![Xbox](badges/xbox360.svg) ![N64](badges/n64-v2.svg)
 
 I've been called a lot of things... 
 creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, documentarian, "that guy who makes the silly cartoons"
