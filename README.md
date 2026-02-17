@@ -1,7 +1,5 @@
 # Nev
 
-📍 Australia ↔ London
-
 ![Pr](badges/premiere-pro.svg) ![Ps](badges/photoshop.svg) ![Ch](badges/character-animator.svg) ![Figma](badges/figma.svg) ![Sony FX3](badges/sony-fx3.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Røde](badges/rode.svg) ![Macintosh](badges/macintosh.svg) ![iPhone](badges/iphone.svg) ![Claude](badges/claude.svg) ![Vercel](badges/vercel.svg) ![Xbox](badges/xbox-v2.svg) ![N64](badges/n64-v2.svg) ![Obsidian](badges/obsidian-v2.svg)
 
 I've been called a lot of things... 
@@ -11,7 +9,8 @@ The constant threads: storytelling and building at the frontier.
 
 Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
 
-100M+ views › 2M+ subscribers › 4M hours watched
+100M+ views › 2M+ subscribers › 4M hours watched  
+Australia ↔ London
 
 ## Currently
 

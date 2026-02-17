@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56" height="22" viewBox="0 0 56 22">
-  <rect rx="4" width="56" height="22" fill="white" stroke="#ddd" stroke-width="0.5"/>
-  <!-- Xbox sphere -->
-  <g transform="translate(5,2)">
-    <circle cx="9" cy="9" r="9" fill="#9DC209"/>
-    <!-- X shape cutout approximation -->
-    <path d="M9,2 C7,4 5,7 5,9 C5,7 7,4 9,2Z" fill="#6B8E00"/>
-    <path d="M9,2 C11,4 13,7 13,9 C13,7 11,4 9,2Z" fill="#6B8E00"/>
-    <path d="M5,9 C5,11 7,14 9,16 C7,14 5,11 5,9Z" fill="#6B8E00"/>
-    <path d="M13,9 C13,11 11,14 9,16 C11,14 13,11 13,9Z" fill="#6B8E00"/>
-    <!-- Inner highlight -->
-    <circle cx="9" cy="9" r="3.5" fill="#B5D633" opacity="0.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="22" viewBox="0 0 30 22">
+  <rect rx="4" width="30" height="22" fill="#0e7a0d"/>
+  <!-- Simplified Xbox X shape -->
+  <g transform="translate(15,11)">
+    <line x1="-5" y1="-5" x2="-1" y2="-1" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="5" y1="-5" x2="1" y2="-1" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="-5" y1="5" x2="-1" y2="1" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="5" y1="5" x2="1" y2="1" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
   </g>
-  <text x="26" y="15" fill="#9DC209" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="800">360</text>
 </svg>
