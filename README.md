@@ -23,7 +23,7 @@ Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](htt
 › [Struthiverse](https://tiktok.com/@struthiverse) - Animated TikTok series  
 › [Glue Factory](https://www.imdb.com/title/tt21069044/) - NFT animated series. Ted Danson, Patton Oswalt, Bobby Lee  
 › [Birdz of Australia](https://www.imdb.com/title/tt20871926/) - Animated short series with Brown Cardigan  
-› Luka and Bobi - Animated short series for Dallas Mavericks  
+› [Luka and Bobi](https://www.imdb.com/title/tt20880386/) - Animated short series for Dallas Mavericks  
 › [Big Lez Show](https://youtube.com/@TheBigLezShow) - Adult Swim funded pilot (for one of my fav shows ever)  
 › [Depravityland](https://open.spotify.com/show/6yUlzq9vDrQbk0ffUCOcgi) - A podcast about the worst things on the internet  
 › [Step One](https://stepone.life) - E-comm underwear brand, now ASX-listed
