@@ -2,7 +2,7 @@
 
 📍 Australia ↔ London
 
-![Pr](badges/premiere-pro.svg) ![Ps](badges/photoshop.svg) ![Sony FX3](badges/sony-fx3.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Røde](badges/rode.svg) ![Mac](badges/mac.svg) ![iPhone](badges/iphone.svg) ![Xbox](badges/xbox.svg) ![Nintendo](badges/nintendo.svg) ![Obsidian](badges/obsidian.svg)
+![Pr](badges/premiere-pro.svg) ![Ps](badges/photoshop.svg) ![Ch](badges/character-animator.svg) ![Sony FX3](badges/sony-fx3.svg) ![Kodak](badges/kodak.svg) ![Polaroid](badges/polaroid.svg) ![Røde](badges/rode.svg) ![Mac](badges/mac.svg) ![iPhone](badges/iphone.svg) ![Xbox](badges/xbox.svg) ![Nintendo](badges/nintendo.svg) ![Obsidian](badges/obsidian.svg)
 
 I've been called a lot of things... 
 creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, documentarian, "that guy who makes the silly cartoons"
