@@ -2,6 +2,7 @@
 
 I've been called a lot of things... 
 creative, strategist, producer, entrepreneur, filmmaker, writer, youtuber, documentarian, "that guy who makes the silly cartoons."
+
 The constants? storytelling and building at the frontier.
 
 Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
