@@ -6,7 +6,7 @@ I've been called a lot of things... creative, strategist, producer, entrepreneur
 
 The constants: storytelling and creating at the frontier of tech.
 
-Previously founded [Struthless](https://youtube.com/@struthless) + [Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
+Previously founded [Struthless](https://youtube.com/@struthless)+[Studios](https://struthlessstudios.com), [Step One](https://stepone.life). Ex: BBDO.
 <br>100M+ views › 2M+ subscribers › 4M hours watched
 
 ## Currently
