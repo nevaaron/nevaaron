@@ -20,7 +20,7 @@ Previously founded [Struthless](https://youtube.com/@struthless)+[Studios](https
 
 ## Before That
 
-› [Struthless Studios](https://struthlessstudios.com) - Content studio. Adult Swim, original IP, brand partnerships  
+› [Struthless Studios](https://struthlessstudios.com) - Content studio, original IP, brand partnerships  
 › [Memelab](https://x.com/memelab_69) - Design your own gif meme, mint it as an NFT  
 › [Struthiverse](https://tiktok.com/@struthiverse) - Animated TikTok series  
 › [How a Space Can Change Your Life](https://www.youtube.com/watch?v=ikz3ECL5NEk) - How your environment shapes your headspace  
